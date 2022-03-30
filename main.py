@@ -1,1 +1,2 @@
-print("My first git project")
+print("My project")
+print("Test conflit")
